@@ -13,12 +13,18 @@ This repository is created using following commands:
 - Initialize local repo and push to gitlab server
 
 
-    git config --global user.name "<your name>"
-    git config --global user.email "<your email>"
+    git config --global user.name "Nothingcool"
+
+    git config --global user.email "me@nothing.cool"
+
     git init
+
     git remote add origin https://gitlab.lab.sains.com.my/tonywong/laravel-hello-world.git
+
     git add .
+
     git commit -m "Initial commit"
+
     git push -u origin master
 
 
