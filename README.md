@@ -19,7 +19,7 @@ This repository is created using following commands:
 
     git init
 
-    git remote add origin https://gitlab.lab.sains.com.my/tonywong/laravel-hello-world.git
+    git remote add origin https://github.com/nothingcool/laravel-hello-world.git
 
     git add .
 
